@@ -1,0 +1,7 @@
+D:\C#\Project_PV\Project_PV\obj\Debug\Project_PV.csprojResolveAssemblyReference.cache
+D:\C#\Project_PV\Project_PV\obj\Debug\Project_PV.MainForm.resources
+D:\C#\Project_PV\Project_PV\obj\Debug\Project_PV.csproj.GenerateResource.Cache
+D:\C#\Project_PV\Project_PV\bin\Debug\Project_PV.exe
+D:\C#\Project_PV\Project_PV\bin\Debug\Project_PV.pdb
+D:\C#\Project_PV\Project_PV\obj\Debug\Project_PV.exe
+D:\C#\Project_PV\Project_PV\obj\Debug\Project_PV.pdb
